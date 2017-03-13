@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "easily display the information of your run-time environment",
   "main": "index.js",
+  "scripts": {"start":"node index.js"},
   "repository": "https://github.com/dobrud/node-environment-info",
   "author": "Dominik Bruderer <dominikbruderer@gmail.com>",
   "license": "MIT",
